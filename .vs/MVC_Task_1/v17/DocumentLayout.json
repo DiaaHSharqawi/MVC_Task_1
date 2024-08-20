@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVILION\\Documents\\C#\\hw\\MVC_Task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC4B26-AACA-444D-9B3E-446E670C56BF}|MVC_Task_1\\MVC_Task_1.csproj|c:\\users\\pavilion\\documents\\c#\\hw\\mvc_task_1\\mvc_task_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFC4B26-AACA-444D-9B3E-446E670C56BF}|MVC_Task_1\\MVC_Task_1.csproj|solutionrelative:mvc_task_1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFC4B26-AACA-444D-9B3E-446E670C56BF}|MVC_Task_1\\MVC_Task_1.csproj|c:\\users\\pavilion\\documents\\c#\\hw\\mvc_task_1\\mvc_task_1\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBFC4B26-AACA-444D-9B3E-446E670C56BF}|MVC_Task_1\\MVC_Task_1.csproj|solutionrelative:mvc_task_1\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Documents\\C#\\hw\\MVC_Task_1\\MVC_Task_1\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "MVC_Task_1\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\PAVILION\\Documents\\C#\\hw\\MVC_Task_1\\MVC_Task_1\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "MVC_Task_1\\Views\\Student\\Update.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:17:01.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PAVILION\\Documents\\C#\\hw\\MVC_Task_1\\MVC_Task_1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Task_1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PAVILION\\Documents\\C#\\hw\\MVC_Task_1\\MVC_Task_1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVC_Task_1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T19:27:50.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
